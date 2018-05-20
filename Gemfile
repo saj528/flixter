@@ -28,7 +28,7 @@ gem 'carrierwave-aws'
 gem 'mini_magick'
 gem 'carrierwave', '~> 1.0'
 gem 'devise'
-
+gem 'jquery-ui-rails'
 gem 'simple_form'
 
 gem 'bootstrap', '~> 4.1.0'
